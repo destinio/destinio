@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I'm Destin 👋
 
-<!--
-**destinio/destinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm aspiring Front-End Developer currently working within and managing the Quality Assurace space at [Widen Enterprises](https://github.com/Widen).
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Typescript
+- Advanced React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+- A Intermidate Fasting Web App
+- Very basic React/TypeScript/Parcel Bootstrap Repo
+
+## ⚡️ Fun facts
+- Currenly reading through the extended Dark Tower series (currently on Wizard and Glass)
+- Father of two
+- Supporting my wife as she grows as a master of Inclusion and Diversity
+- Kicked cancers ass and have been cancer free for just over a year
+

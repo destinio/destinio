@@ -2,6 +2,8 @@
 
 I'm aspiring Front-End Developer currently working within and managing the Quality Assurace space at [Widen Enterprises](https://github.com/Widen).
 
+> Strive not to be a success, but rather to be of value. -- Albert Einstein
+
 ## 🌱 I’m currently learning
 - Typescript
 - Advanced React

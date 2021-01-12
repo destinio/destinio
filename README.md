@@ -1,20 +1,25 @@
 ### Hello, I'm [Destin](https://destin.io) 🧑‍💻
 
-I'm an aspiring Front-End Developer currently working within and managing the Quality Assurace space at [Widen Enterprises](https://github.com/Widen).
+I'm a Front-End Developer currently making kick-ass web apps at [Widen Enterprises](https://github.com/Widen).
+
+In my free time, when I'm not hanging with my family, I love: 
+- 🎲 Playing board games
+- 🍝 Cooking amazing meals
+- 📖 Reading
+- 🏠 Working on ever growing house projects
 
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
 ## 🌱 I’m currently learning
-- Typescript
-- Advanced React
+- Next.js
+- Advanced Webpack
 
 ## 🔭 I’m currently working on
-- An Intermidate Fasting Web App
-- Very basic React/TypeScript/Parcel Bootstrap Repo
+- Webpack starter repo
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on Wizard and Glass) 🧙‍♂️
 - Father of two 👨‍👩‍👦‍👦
 - Supporting my wife as she grows as a master of Inclusion and Diversity
-- Kicked cancer's ass and have been cancer free for just over a year 🩸
+- Kicked cancer's ass and have been cancer free for over a year 🩸
 

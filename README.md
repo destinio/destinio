@@ -1,4 +1,4 @@
-### Hello, I'm [Destin](https://destin.io) 🧑‍💻
+### Hello, I'm [Destin](https://destin.io) (he/him)
 
 I'm a Front-End Developer currently making kick-ass web apps at [Widen Enterprises](https://github.com/Widen).
 
@@ -15,7 +15,9 @@ In my free time, when I'm not hanging with my family, I love:
 - Advanced Webpack
 
 ## 🔭 I’m currently working on
+- Crushing it at [WIDEN](https://www.widen.com/)
 - Webpack starter repo
+- Working with rapper [LightSkin](lightskin.me) on his digital life
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on Wizard and Glass) 🧙‍♂️

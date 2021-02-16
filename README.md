@@ -17,7 +17,7 @@ In my free time, when I'm not hanging with my family, I love:
 ## 🔭 I’m currently working on
 - Crushing it at [WIDEN](https://www.widen.com/)
 - Webpack starter repo
-- Working with rapper [LightSkin](lightskin.me) on his digital life
+- Working with rapper [LightSkin](https://lightskin.me) on his digital life
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on Wizard and Glass) 🧙‍♂️

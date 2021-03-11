@@ -11,8 +11,7 @@ In my free time, when I'm not hanging with my family, I love:
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
 ## 🌱 I’m currently learning
-- Next.js
-- React Suspense
+- TypeScript deep dive 🏊‍♂️
 
 ## 🔭 I’m currently working on
 - Crushing FE work at [WIDEN](https://www.widen.com/)

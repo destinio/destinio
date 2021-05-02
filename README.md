@@ -2,7 +2,7 @@
 
 I'm a Front-End Developer currently making kick-ass web apps at [Widen Enterprises](https://github.com/Widen).
 
-I moonlight as a discord/twitch manager for [LightHouse Gaming](https://lhgaming.us) and a talent manager for [LighSkin](https://lightskin.me)
+I moonlight as a discord/twitch manager for [LightHouse Gaming](https://lhgaming.us) and a talent manager for [LightSkin](https://lightskin.me)
 
 In my free time, when I'm not hanging with my family, I love: 
 - 🎲 Playing board games

@@ -22,4 +22,4 @@ In my free time, when I'm not hanging with my family, I love:
 - Currenly reading through the extended Dark Tower series (currently on Salem's Lot) 🧛🪟
 - Father of two 👨‍👩‍👦‍👦
 - Supporting my wife as she grows as a master of Inclusion and Diversity
-- Kicked cancer's ass and have been cancer free for over a year 🩸
+- Kicked cancer's ass and have been cancer free for two years 🩸

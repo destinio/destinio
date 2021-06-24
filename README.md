@@ -13,10 +13,12 @@ In my free time, when I'm not hanging with my family, I love:
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
 ## 🌱 I’m currently learning
-- DiscordJS
+- Upcomming CSS changes
+- Being a better A11y
 
 ## 🔭 I’m currently working on
-- A discord bot using [DiscordJS](https://github.com/discordjs/discord.js/)
+- Working on work mostly
+- Being more productive 🤪
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on Salem's Lot) 🧛🪟

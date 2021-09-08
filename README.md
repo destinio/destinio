@@ -1,6 +1,6 @@
 ### Hello, I'm [Destin](https://destin.io) (he/him)
 
-I'm a Front-End Developer currently making kick-ass web apps at [Widen Enterprises](https://github.com/Widen).
+I'm a Software Developer.
 
 I moonlight as a home chef/pit-master. Check me on on [instagram](https://www.instagram.com/famleechef/)
 

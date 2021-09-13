@@ -1,5 +1,7 @@
 ### Hello, I'm [Destin](https://destin.io) (he/him)
 
+> Strive not to be a success, but rather to be of value. -- Albert Einstein
+
 I'm a Software Developer. Talent Manager. Code Whisperer
 
 I moonlight as a home chef/pit-master. Check me on on [instagram](https://www.instagram.com/famleechef/)
@@ -9,8 +11,6 @@ In my free time, when I'm not hanging with my family, I love:
 - 🍝 Cooking amazing meals
 - 📖 Reading
 - 🏠 Working on ever growing house projects
-
-> Strive not to be a success, but rather to be of value. -- Albert Einstein
 
 ## 🌱 I’m currently learning
 - Rails - https://github.com/destinio/railsresume

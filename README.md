@@ -6,11 +6,11 @@ I'm a Software Developer. Talent Manager. Code Whisperer
 
 I moonlight as a home chef/pit-master. Check me out on [instagram](https://www.instagram.com/famleechef/)
 
-In my free time:
-- 👨‍👩‍👦‍👦 Hanging with the familee
-- 🎲 Playing board games
-- 🍝 Cooking amazing meals
-- 📖 Reading
+In my free time I:
+- 👨‍👩‍👦‍👦 Hang with the familee
+- 🎲 Play board games
+- 🍝 Cook amazing meals
+- 📖 Read
 - ☯️ Practice Zen
 
 ## 🌱 I’m currently learning

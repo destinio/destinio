@@ -1,22 +1,23 @@
-### Hello, I'm [Destin](https://destin.io) (he/him)
+### Hello, I'm [Destin](https://destin.io) (he/him) 👋
 
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
 I'm a Software Developer. Talent Manager. Code Whisperer
 
-I moonlight as a home chef/pit-master. Check me on on [instagram](https://www.instagram.com/famleechef/)
+I moonlight as a home chef/pit-master. Check me out on [instagram](https://www.instagram.com/famleechef/)
 
-In my free time, when I'm not hanging with my family, I love: 
+In my free time:
+- 👨‍👩‍👦‍👦 Hanging with the familee
 - 🎲 Playing board games
 - 🍝 Cooking amazing meals
 - 📖 Reading
-- 🏠 Working on ever growing house projects
+- ☯️ Practice Zen
 
 ## 🌱 I’m currently learning
 - Rails - https://github.com/destinio/railsresume
 
 ## 🔭 I’m currently working on
-- Set up a new streaming morning show
+- Learning the ways of the Fullstack Dev
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on Wolves of the Calla) 🐺

@@ -14,7 +14,7 @@ In my free time I:
 - ☯️ Practice Zen
 
 ## 🌱 I’m currently learning
-- Rails - https://github.com/destinio/railsresume
+- Rails - https://github.com/destinio/rails-demo
 
 ## 🔭 I’m currently working on
 - Learning the ways of the Fullstack Dev

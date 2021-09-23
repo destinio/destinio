@@ -2,6 +2,8 @@
 
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
+> ...know yourself, know your worth... -- Drake
+
 I'm a Software Developer. Talent Manager. Code Whisperer
 
 I moonlight as a home chef/pit-master. Check me out on [instagram](https://www.instagram.com/famleechef/)

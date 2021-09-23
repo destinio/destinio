@@ -2,6 +2,8 @@
 
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
+> The awareness that you are here, right now, is the ultimate fact. -- Shunryu Suzuki
+
 > ...know yourself, know your worth... -- Drake
 
 I'm a Software Developer. Talent Manager. Code Whisperer

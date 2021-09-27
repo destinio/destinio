@@ -8,6 +8,8 @@
 
 I'm a Software Developer. Talent Manager. Code Whisperer
 
+For more work info open your terminal and run `npx destin`
+
 I moonlight as a home chef/pit-master. Check me out on [instagram](https://www.instagram.com/famleechef/)
 
 In my free time I:

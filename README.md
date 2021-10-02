@@ -19,9 +19,10 @@ In my free time I:
 
 ## 🌱 I’m currently learning
 - Rails - https://github.com/destinio/rails-demo
+- NPM Package Design to build CLIs
 
 ## 🔭 I’m currently working on
-- Learning the ways of the Fullstack Dev
+- CLI automation to speed up things I do
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on Wolves of the Calla) 🐺

@@ -1,5 +1,9 @@
 ### Hello, I'm [Destin](https://destin.io) (he/him) 👋
 
+```sh
+npx destin
+```
+
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
 > The awareness that you are here, right now, is the ultimate fact. -- Shunryu Suzuki

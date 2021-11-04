@@ -8,9 +8,7 @@ npx destin
 
 > The awareness that you are here, right now, is the ultimate fact. -- Shunryu Suzuki
 
-> ...know yourself, know your worth... -- Drake
-
-I'm a Software Developer. Talent Manager. Code Whisperer
+I'm a Software Developer. Talent Manager.
 
 For more professional info open your terminal and run `npx destin`
 
@@ -22,8 +20,7 @@ In my free time I:
 - ☯️ Practice Zen
 
 ## 🌱 I’m currently learning
-- Rails - https://github.com/destinio/rails-demo
-- NPM Package Design to build CLIs
+- NPM Package Design
 
 ## 🔭 I’m currently working on
 - CLI automation to speed up things I do

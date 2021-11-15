@@ -10,7 +10,8 @@ npx destin
 
 I'm a Software Developer. Talent Manager.
 
-For more professional info open your terminal and run `npx destin`
+For more info open your terminal and run:
+`npx destin`
 
 In my free time I:
 - 👨‍👩‍👦‍👦 Hang with the familee
@@ -21,6 +22,7 @@ In my free time I:
 
 ## 🌱 I’m currently learning
 - NPM Package Design
+- Advanced TypeScript
 
 ## 🔭 I’m currently working on
 - CLI automation to speed up things I do

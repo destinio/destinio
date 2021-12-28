@@ -8,6 +8,8 @@ npx destin
 
 > The awareness that you are here, right now, is the ultimate fact. -- Shunryu Suzuki
 
+> Fear is the only darkness. -- Master Po
+
 I'm a Software Developer. Talent Manager.
 
 For more info open your terminal and run:

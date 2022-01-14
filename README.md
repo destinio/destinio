@@ -1,4 +1,4 @@
-### Hello, I'm [Destin](https://destin.io) (he/him) 👋
+### Hello, I'm [Destin](https://destin.io) (human) 👋
 
 ```sh
 npx destin
@@ -15,7 +15,7 @@ I'm a Software Developer. Talent Manager.
 For more info open your terminal and run:
 `npx destin`
 
-In my free time I:
+When not coding:
 - 👨‍👩‍👦‍👦 Hang with the familee
 - 🎲 Play board games
 - 🍝 Cook amazing meals

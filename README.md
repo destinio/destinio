@@ -1,4 +1,4 @@
-### Hello, I'm [Destin](https://destin.io) (human) 👋
+### Hello, I'm [Destin](https://destin.io) (deviant) 👋
 
 ```sh
 npx destin

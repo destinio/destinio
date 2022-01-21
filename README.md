@@ -21,7 +21,7 @@ When not coding:
 - 👨‍👩‍👦‍👦 Hang with the familee
 - 🎲 Play board games
 - 🍝 Cook amazing meals
-- 📖 Read
+- 📖 The Books
 - ☯️ Practice Zen
 
 ## 🌱 I’m currently learning

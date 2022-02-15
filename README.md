@@ -14,8 +14,7 @@ npx destin
 
 ```
 If I was doing this for you then I'd have nothing left to prove
-Nah, this for me though
-I'm just tryna stay alive and take care of my people!
+Nah, this for me though. I'm just tryna stay alive and take care of my people!
 
 Stay committed, fuck the credit!!
 

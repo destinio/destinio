@@ -12,6 +12,12 @@ npx destin
 
 > Fear is the only darkness. -- Master Po
 
+```
+If I was doing this for you then I'd have nothing left to prove
+Nah, this for me though
+I'm just tryna stay alive and take care of my people
+```
+
 I'm a Software Developer. Talent Manager.
 
 For more info open your terminal and run:

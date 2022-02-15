@@ -16,6 +16,7 @@ npx destin
 If I was doing this for you then I'd have nothing left to prove
 Nah, this for me though
 I'm just tryna stay alive and take care of my people
+Drake
 ```
 
 I'm a Software Developer. Talent Manager.

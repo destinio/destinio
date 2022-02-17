@@ -1,4 +1,4 @@
-### Hello, I'm [Destin](https://destin.io) (deviant) 👋
+### Hello, I'm [Destin](https://destin.io) ([Fulcrum](https://starwars.fandom.com/wiki/Fulcrum)) 👋
 
 > I'll admit it, I'll admit it 
 

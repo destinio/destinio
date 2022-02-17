@@ -46,4 +46,9 @@ When not coding:
 - I can solve a Rubix Cube in under a minute <img src='/cube.png' height='20px' alt='Rubix Cube Image' />
 - Kicked cancer's ass and have been cancer free for two years 🩸
 
-> I'm 'bout to hit you with the work, boy (Work) - ovo
+```
+"You want to recruit people?"
+
+"Not exactly. Though if I found good people, I would certainly try to bring them in. I want to take your recruits and find missions for them. I want to be the one who listens to what people need, who finds out what people can do and then helps them do it."
+―Bail Organa and Ahsoka Tano
+```

@@ -6,6 +6,8 @@ npx destin
 
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
+> It is what it is, trust me, you get what you give - Drake
+
 > The awareness that you are here, right now, is the ultimate fact. -- Shunryu Suzuki
 
 > Fear is the only darkness. -- Master Po

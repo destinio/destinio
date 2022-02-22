@@ -33,6 +33,8 @@ When not coding:
 - I can solve a Rubix Cube in under a minute <img src='/cube.png' height='20px' alt='Rubix Cube Image' />
 - Kicked cancer's ass and have been cancer free for two years 🩸
 
+## Fulcrum
+
 ```
 "You want to recruit people?"
 

@@ -36,13 +36,17 @@ When not coding:
 ```
 "You want to recruit people?"
 
-"Not exactly. Though if I found good people, 
+"Not exactly. 
+
+Though if I found good people, 
 I would certainly try to bring them in. 
+
 I want to take your recruits and find missions for them. 
+
 I want to be the one who listens to what people need,
 who finds out what people can do and then helps them do it."
 
-―Bail Organa and Ahsoka Tano
+―Ahsoka Tano to Bail Organa
 ```
 
 [👉 More quotes](https://github.com/destinio/quotes)

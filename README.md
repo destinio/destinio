@@ -6,12 +6,6 @@ npx destin
 
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
-> It is what it is, trust me, you get what you give - Drake
-
-> The awareness that you are here, right now, is the ultimate fact. -- Shunryu Suzuki
-
-> Fear is the only darkness. -- Master Po
-
 Husband. Father. Web Software Person. Talent Manager. [Fulcrum Agent](https://starwars.fandom.com/wiki/Fulcrum)
 
 When not coding:
@@ -26,7 +20,7 @@ When not coding:
 - Advanced TypeScript
 
 ## 🔭 I’m currently working on
-- Me
+- Solutioning
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on Insomnia) 👶

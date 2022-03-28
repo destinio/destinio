@@ -8,6 +8,8 @@ npx destin
 
 Husband. Father. Web Software Person. Talent Manager. [Fulcrum Agent](https://starwars.fandom.com/wiki/Fulcrum)
 
+Be sure to check out my [gists](https://gist.github.com/destinio)
+
 When not coding:
 - 👨‍👩‍👦‍👦 Hang with the familee
 - 🎲 Play board games

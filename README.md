@@ -6,7 +6,7 @@ npx destin
 
 > Strive not to be a success, but rather to be of value. -- Albert Einstein
 
-Husband. Father. Web Software Person. Talent Manager. [Fulcrum Agent](https://starwars.fandom.com/wiki/Fulcrum)
+Husband. Father. Web Software Person. Taoist. [Fulcrum Agent](https://starwars.fandom.com/wiki/Fulcrum)
 
 Be sure to check out my [gists](https://gist.github.com/destinio)
 

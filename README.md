@@ -16,7 +16,7 @@ When not coding:
 - 🍝 Cook amazing meals
 - 📖 The Books
 - 🐱 Entertaining Willie Nelson
-- ☯️ Practice [Taoism](https://en.wikipedia.org/wiki/Taoism)
+- ☯️ Practicing [Taoism](https://en.wikipedia.org/wiki/Taoism)
 
 ## 🌱 I’m currently learning
 - NPM Package Design

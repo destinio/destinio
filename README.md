@@ -4,8 +4,6 @@
 npx destin
 ```
 
-> Strive not to be a success, but rather to be of value. -- Albert Einstein
-
 Husband. Father. Web Software Nerd. BBQ Enthusiast Taoist.
 
 Be sure to check out my [gists](https://gist.github.com/destinio)

@@ -31,3 +31,7 @@ When not coding:
 - Kicked cancer's ass and have been cancer free for three years 🩸
 
 [👉 favorite quotes](https://github.com/destinio/quotes)
+
+## Hackings
+
+<a href="https://www.codewars.com/users/destinio" rel="Code Wars">![Code Wars](https://www.codewars.com/users/destinio/badges/small)</a>

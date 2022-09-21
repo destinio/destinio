@@ -26,7 +26,7 @@ When not coding:
 - [Live](https://tao.destin.io/)
 
 ## ⚡️ Fun facts
-- Currenly reading through the extended Dark Tower series (currently on Song of Susannah) 🤰🏿
+- Currenly reading through the extended Dark Tower series (currently on The Dark Tower) 🤰🏿
 - I can solve a Rubix Cube in under a minute <img src='/cube.png' height='20px' alt='Rubix Cube Image' />
 - Kicked cancer's ass and have been cancer free for three years 🩸
 

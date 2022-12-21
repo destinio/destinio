@@ -16,11 +16,12 @@ When not coding:
 - 🐱 Entertaining Willie Nelson
 
 ## 🌱 I’m currently learning
-- NPM Package Design
+- Lua for NeoVim
 - Advanced TypeScript
 
 ## 🔭 I’m currently working on
-- A fun little Pokemon learner [Site](https://poke.destin.io)
+- Open source things
+- and work, work
 
 ## ⚡️ Fun facts
 - Currenly reading through the extended Dark Tower series (currently on The Dark Tower) 🤰🏿

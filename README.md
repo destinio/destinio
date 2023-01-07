@@ -4,8 +4,6 @@
 npx destin
 ```
 
-Husband. Father. Web Software Nerd. BBQ Enthusiast
-
 The gists 👉 [gists](https://gist.github.com/destinio)
 
 When not coding:
@@ -16,12 +14,12 @@ When not coding:
 
 ## 🌱 I’m currently learning
 - All things VIM (NeoVim)
-- GoLang
+- Rust
 - AWS Cert Stuff
 
 ## 🔭 I’m currently working on
 - Open source things
-- and work, work 😎
+- work, work 😎
 
 [destin.io](https://destin.io)
 

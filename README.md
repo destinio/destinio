@@ -7,14 +7,14 @@ npx destin
 The gists 👉 [gists](https://gist.github.com/destinio)
 
 When not coding:
-- 👨‍👩‍👦‍👦 Hang with the familee
+- 👨‍👩‍👦‍👦 Hang with familee
 - 🎲 Play board games
 - 📖 Reading
 - 🐱 Entertaining Willie Nelson
 
 ## 🌱 I’m currently learning
 - All things VIM (NeoVim)
-- Rust
+- Go
 - AWS Cert Stuff
 
 ## 🔭 I’m currently working on

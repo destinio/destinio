@@ -10,17 +10,15 @@ When not coding:
 - 👨‍👩‍👦‍👦 Hang with familee
 - 🎲 Play board games
 - 📖 Reading
-- 🐱 Entertaining Willie Nelson
+- 🐱🐱 Entertaining Willie Nelson and Jimi Hendrix
 
 ## 🌱 I’m currently learning
-- All things VIM (NeoVim)
-- Go
-- AWS Cert Stuff
+- How to be a clean coder
+- https://a.co/d/7X4uYNh
 
 ## 🔭 I’m currently working on
-- Open source things
-- work, work 😎
+- A Fetch app
 
 [destin.io](https://destin.io)
 
-☯️ 道
+☯️ 道 ✌️ Be Honest

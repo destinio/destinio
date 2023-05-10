@@ -10,14 +10,15 @@ When not coding:
 - 👨‍👩‍👦‍👦 Hang with familee
 - 🎲 Play board games
 - 📖 Reading
-- 🐱🐱 Entertaining Willie Nelson and Jimi Hendrix
+- 🐱 Entertaining Willie Nelson
 
 ## 🌱 I’m currently learning
 - How to be a clean coder
 - https://a.co/d/7X4uYNh
 
 ## 🔭 I’m currently working on
-- A Fetch app
+- Go Back-end development
+- work, work!
 
 [destin.io](https://destin.io)
 

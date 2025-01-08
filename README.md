@@ -1,25 +1,36 @@
-### Hello, I'm [Destin](https://destin.io) 👋
+# Hi, I'm Destin! 👋
 
-```sh
-npx destin
-```
+Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and a proactive **Team Leader** who loves creating intuitive, user-friendly applications and fostering collaborative environments. 💻✨
 
-The gists 👉 [gists](https://gist.github.com/destinio)
+## About Me 🙌
 
-When not coding:
-- 👨‍👩‍👦‍👦 Hang with familee
-- 🎲 Play board games
-- 📖 Reading
-- 🐱 Entertaining Willie Nelson
+- 🌟 Experienced in **React**, **TypeScript**, and modern JavaScript frameworks.
+- 🎨 Advocate for clean, accessible, and visually appealing UI/UX design.
+- 🧠 Always learning something new and improving my coding skills.
+- 🎯 Focused on effective team communication and delivering impactful projects.
 
-## 🌱 I’m currently learning
-- How to be a clean coder
-- https://a.co/d/7X4uYNh
+## What I Do Best 🔥
 
-## 🔭 I’m currently working on
-- Go Back-end development
-- work, work!
+- **Frontend Wizardry**: Crafting beautiful, responsive, and performant web interfaces.
+- **Leadership & Mentorship**: Guiding teams to success with clear direction and open communication.
+- **Problem Solving**: Tackling challenges head-on with a creative and analytical mindset.
 
-[destin.io](https://destin.io)
+## Currently Working On 🛠️
 
-☯️ 道 ✌️ Be Honest
+- 🔧 Optimizing my **Neovim configuration** for maximum efficiency.
+- 💼 Building a **Laravel-based Pokémon Trading Card Price Tracker**.
+
+## Fun Facts 😄
+
+- ♟️ Chess enthusiast.
+- 🤹‍♂️ Can solve a Rubik's Cube in under a minute.
+- 🍖 BBQ connoisseur always on the hunt for the perfect brisket.
+
+## Let's Connect 🌐
+
+- **GitHub**: [github.com/destinio](https://github.com/destinio)
+- **LinkedIn**: [linkedin.com/in/destinlee](https://www.linkedin.com/in/destinlee/)
+
+Feel free to reach out or collaborate on exciting projects. Let's build something amazing together! 🚀
+
+☯️ 道 ✌️ Be Kind

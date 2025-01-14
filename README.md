@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and a proa
 ## Currently Working On 🛠️
 
 - 🔧 Optimizing my **Neovim configuration** for maximum efficiency.
-- 💼 Building a **Laravel-based Pokémon Trading Card Price Tracker**.
+- 💼 Building a **Laravel-based Pokémon Trading Card Price Tracker**. [repo](https://github.com/destinio/pokemoney)
 
 ## Fun Facts 😄
 
